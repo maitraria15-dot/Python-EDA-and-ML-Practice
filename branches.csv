@@ -1,0 +1,26 @@
+branch_id,branch_name,city,region,branch_type
+BR001,Mumbai Branch 1,Mumbai,West,Urban
+BR002,Delhi Branch 1,Delhi,North,Urban
+BR003,Kolkata Branch 1,Kolkata,East,Semi-Urban
+BR004,Bengaluru Branch 1, Bengaluru ,South,Urban
+BR005,Chennai Branch 1,Chennai,South,Metro
+BR006,Pune Branch 1,Pune,West,Semi-Urban
+BR007,Hyderabad Branch 1,Hyderabad,South,Urban
+BR008,Jaipur Branch 1,Jaipur,North,Urban
+BR009,Lucknow Branch 1,Lucknow,North,Metro
+BR010,Ahmedabad Branch 1,Ahmedabad,West,Urban
+BR011,Mumbai Branch 2,Mumbai,West,Urban
+BR012,Delhi Branch 2,Delhi,North,Semi-Urban
+BR013,Kolkata Branch 2,Kolkata,East,Urban
+BR014,Bengaluru Branch 2,Bengaluru,South,Semi-Urban
+BR015,Chennai Branch 2,Chennai,South,Urban
+BR016,Pune Branch 2,Pune,West,Metro
+BR017,Hyderabad Branch 2,Hyderabad,South,Urban
+BR018,Jaipur Branch 2,Jaipur,North,Metro
+BR019,Lucknow Branch 2,Lucknow,North,Semi-Urban
+BR020,Ahmedabad Branch 2,Ahmedabad,West,Urban
+BR021,Mumbai Branch 3,Mumbai,West,Urban
+BR022,Delhi Branch 3,Delhi,North,Urban
+BR023,Kolkata Branch 3,Kolkata,East,Semi-Urban
+BR024,Bengaluru Branch 3,Bengaluru,South,Semi-Urban
+BR025,Chennai Branch 3,Chennai,South,Urban
